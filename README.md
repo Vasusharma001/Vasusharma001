@@ -27,15 +27,9 @@ I'm currently in my **4th year of B.Tech in Information Technology** at **Delhi 
 
 ---
 
-### 🐍 GitHub Contribution Snake
-
-![snake gif](https://github.com/Vasusharma001/Vasusharma001/blob/output/github-contribution-grid-snake.svg)
-
----
-
 ### 📫 Connect with Me
-- LinkedIn: [Shresth Jain](https://linkedin.com/in/shresth-jain)
-- Email: [shresthjain@example.com](mailto:shresthjain@example.com)
+- LinkedIn: [Vasu Sharma]([https://linkedin.com/in/shresth-jain](https://www.linkedin.com/in/vasu-sharma-350b82229/))
+- Email: [vasusharma.sde](mailto:vasusharma.sde@gmail.com)
 
 ---
 
