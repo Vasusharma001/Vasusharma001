@@ -22,7 +22,7 @@ I'm currently in my **4th year of B.Tech in Information Technology** at **Delhi 
 
 ### 📊 GitHub Stats
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Vasusharma001&theme=highcontrast&hide_border=true)  
+ 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vasusharma001&layout=compact&theme=highcontrast&hide_border=true)
 
 ---
